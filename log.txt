@@ -1,3 +1,9 @@
+commit 877eef0cf1c266a62927bb42a992c9912ffc09b5
+Author: Patricia Hernandez Perez <pahernan@c1r1s3.42malaga.com>
+Date:   Thu Dec 12 16:30:57 2024 +0100
+
+    añadido git log
+
 commit 6c8a46d72ede8b2860bd89e6ffe0b95d93e65851
 Author: PaLucena <pablolucena01@gmail.com>
 Date:   Thu Dec 12 15:49:36 2024 +0100
